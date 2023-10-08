@@ -1,0 +1,2 @@
+# AipokeFN
+Pokemon Generator!
